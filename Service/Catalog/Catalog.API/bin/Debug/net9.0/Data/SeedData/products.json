@@ -1,0 +1,82 @@
+﻿//[
+//  {
+//    "id": "683b00000000000000001001",
+//    "name": "iPhone 15 Pro",
+//    "description": "Apple flagship smartphone with A17 Pro chip.",
+//    "summary": "Premium smartphone",
+//    "imageFile": "iphone15pro.jpg",
+//    "price": 1199.99,
+//    "brand": {
+//      "id": "683b00000000000000000101",
+//      "name": "Apple"
+//    },
+//    "type": {
+//      "id": "683b00000000000000000001",
+//      "name": "Smartphone"
+//    }
+//  },
+//  {
+//    "id": "683b00000000000000001002",
+//    "name": "Galaxy S25",
+//    "description": "Samsung flagship Android smartphone.",
+//    "summary": "High-end Android phone",
+//    "imageFile": "galaxys25.jpg",
+//    "price": 1099.99,
+//    "brand": {
+//      "id": "683b00000000000000000102",
+//      "name": "Samsung"
+//    },
+//    "type": {
+//      "id": "683b00000000000000000001",
+//      "name": "Smartphone"
+//    }
+//  },
+//  {
+//    "id": "683b00000000000000001003",
+//    "name": "Dell XPS 15",
+//    "description": "Powerful laptop for professionals.",
+//    "summary": "Premium laptop",
+//    "imageFile": "dellxps15.jpg",
+//    "price": 1799.99,
+//    "brand": {
+//      "id": "683b00000000000000000103",
+//      "name": "Dell"
+//    },
+//    "type": {
+//      "id": "683b00000000000000000002",
+//      "name": "Laptop"
+//    }
+//  },
+//  {
+//    "id": "683b00000000000000001004",
+//    "name": "iPad Air",
+//    "description": "Lightweight tablet with powerful performance.",
+//    "summary": "Apple tablet",
+//    "imageFile": "ipadair.jpg",
+//    "price": 699.99,
+//    "brand": {
+//      "id": "683b00000000000000000101",
+//      "name": "Apple"
+//    },
+//    "type": {
+//      "id": "683b00000000000000000003",
+//      "name": "Tablet"
+//    }
+//  },
+//  {
+//    "id": "683b00000000000000001005",
+//    "name": "Sony WH-1000XM5",
+//    "description": "Noise cancelling wireless headphones.",
+//    "summary": "Premium headphones",
+//    "imageFile": "sonyxm5.jpg",
+//    "price": 399.99,
+//    "brand": {
+//      "id": "683b00000000000000000104",
+//      "name": "Sony"
+//    },
+//    "type": {
+//      "id": "683b00000000000000000004",
+//      "name": "Headphones"
+//    }
+//  }
+//]
