@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {}
+    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {}
   },
   "projects": {
-    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
         "projectName": "Catalog.Application",
-        "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
         "packagesPath": "C:\\Users\\AL-Motahida\\.nuget\\packages\\",
-        "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\obj\\",
+        "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
-                "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj"
+              "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
+                "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
+    "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "projectName": "Catalog.Core",
-        "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "packagesPath": "C:\\Users\\AL-Motahida\\.nuget\\packages\\",
-        "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Core\\obj\\",
+        "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

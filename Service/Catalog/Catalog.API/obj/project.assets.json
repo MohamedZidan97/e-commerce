@@ -1743,11 +1743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Service\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\AL-Motahida\\.nuget\\packages\\",
-      "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Service\\Catalog\\Catalog.API\\obj\\",
+      "outputPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Service\\Catalog\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1768,11 +1768,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
-              "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
+            "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+              "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
             },
-            "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
-              "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
+            "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+              "projectPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
             }
           }
         }

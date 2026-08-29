@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmJRyrvYRUk=",
+  "dgSpecHash": "y8jA+MshgLM=",
   "success": true,
-  "projectFilePath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce-web\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+  "projectFilePath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL-Motahida\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\9.0.0\\aspnetcore.healthchecks.mongodb.9.0.0.nupkg.sha512",
     "C:\\Users\\AL-Motahida\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
