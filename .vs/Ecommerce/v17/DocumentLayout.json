@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|e:\\full stack developer\\microservices course\\projects\\e-commerce\\services\\catalog\\catalog.application\\handlers\\commends\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\commends\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|e:\\full stack developer\\microservices course\\projects\\e-commerce\\services\\catalog\\catalog.application\\commends\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\commends\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|e:\\full stack developer\\microservices course\\projects\\e-commerce\\services\\catalog\\catalog.application\\handlers\\queries\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\queries\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|e:\\full stack developer\\microservices course\\projects\\e-commerce\\services\\catalog\\catalog.application\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|e:\\full stack developer\\microservices course\\projects\\e-commerce\\services\\catalog\\catalog.application\\handlers\\queries\\getalltypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA318F70-E1D6-431F-B2C2-259A90AFD73D}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\queries\\getalltypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,6 +75,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Commends\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\Commends\\CreateProductHandler.cs",
+              "ToolTip": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Commends\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\Commends\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:27:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Commends\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Commends\\CreateProductCommand.cs",
+              "ToolTip": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Commends\\CreateProductCommand.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Commends\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:24:46.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetProductByIdHandler.cs",
+              "ToolTip": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:58:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:55:01.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetAllTypesHandler.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetAllTypesHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetAllTypesHandler.cs",
@@ -71,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GetAllTypesQuery.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
@@ -79,12 +147,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:42:57.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:42:57.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TypeResponseDto.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Responses\\TypeResponseDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Responses\\TypeResponseDto.cs",
@@ -92,12 +159,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Responses\\TypeResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:42:16.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:42:16.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -105,12 +171,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAF0AAAAAmZmZmZkVwBsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T16:05:08.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T16:05:08.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProductMappingProfile.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
@@ -118,12 +183,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:12:41.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:12:41.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GetAllBrandsHandler.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetAllBrandsHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetAllBrandsHandler.cs",
@@ -131,12 +195,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\Queries\\GetAllBrandsHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:12:41.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:12:41.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BrandResponseDto.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Responses\\BrandResponseDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Responses\\BrandResponseDto.cs",
@@ -144,12 +207,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Responses\\BrandResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:12:39.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:12:39.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "GetAllBrandsQuery.cs",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
@@ -157,25 +219,23 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T19:12:41.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:12:41.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Catalog.Application",
+              "DocumentIndex": 12,
+              "Title": "Catalog.Application.csproj",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
               "ToolTip": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
               "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-04T19:12:37.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T19:12:37.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Catalog.Infrastructure.csproj",
               "DocumentMoniker": "E:\\Full Stack Developer\\Microservices Course\\Projects\\e-commerce\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
