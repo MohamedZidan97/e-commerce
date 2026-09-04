@@ -81,11 +81,12 @@ namespace Catalog.Infrastructure.Repositories
 
         public async Task<bool> UpdateProduct(Product product)
         {
+            // generate filter
             var filter = Builders<Product>.Filter.Eq(
                 p => p.Id,
                 product.Id
             );
-
+            //
             var result = await _context.Products.ReplaceOneAsync(
                 filter,
                 product
