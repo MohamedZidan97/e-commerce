@@ -45,7 +45,28 @@ namespace Catalog.Infrastructure.Repositories
                 .Find(_ => true)
                 .ToListAsync();
         }
+        public async Task<IEnumerable<Product>> GetProductsByBrand(
+      string? brandId,
+      string? brandName)
+        {
+            var filter = Builders<Product>.Filter.Empty;
 
+            if (!string.IsNullOrWhiteSpace(brandId))
+            {
+                filter &= Builders<Product>.Filter.Eq(
+                    p => p.Brand.Id, brandId);
+            }
+
+            if (!string.IsNullOrWhiteSpace(brandName))
+            {
+                filter &= Builders<Product>.Filter.Eq(
+                    p => p.Brand.Name, brandName);
+            }
+
+            return await _context.Products
+                .Find(filter)
+                .ToListAsync();
+        }
         public async Task<Product> GetProductById(string id)
         {
             var filter = Builders<Product>.Filter.Eq(p => p.Id, id);
