@@ -24,4 +24,6 @@ namespace Catalog.Application.Responses
         public ProductBrand Brand { get; set; }
         public ProductType Type { get; set; }
     }
+
+   
 }
